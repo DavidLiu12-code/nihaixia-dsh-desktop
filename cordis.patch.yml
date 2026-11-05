@@ -1,0 +1,5 @@
+- insert:
+    - id: dsh-workbench-nihaixia
+      name: dsh-workbench-nihaixia
+      config:
+        root: !!js dshHomePath('nihaixia-workbench')
